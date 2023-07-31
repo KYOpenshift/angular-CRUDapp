@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Pooja",
+      "lastName": "S",
+      "email": "pooja@gmail.com",
+      "dob": "1992-01-05T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "PEL",
+      "experience": 6,
+      "package": 20,
+      "id": 1
+    },
+    {
+      "firstName": "Vishal",
+      "lastName": "Chaubey",
+      "email": "vishal@gmail.com",
+      "dob": "1992-06-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "PEL",
+      "experience": 6,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstName": "Matt",
+      "lastName": "Thomas",
+      "email": "Matt@gmail.com",
+      "dob": "1992-01-05T18:30:00.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "MS",
+      "experience": 4,
+      "package": 12,
+      "id": 3
+    },
+    {
+      "firstName": "Samy",
+      "lastName": "Thom",
+      "email": "Samy@gmail.com",
+      "dob": "1994-02-01T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "ATCU",
+      "experience": 2,
+      "package": 14,
+      "id": 4
+    }
+  ]
+}
